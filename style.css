@@ -1,0 +1,15 @@
+#grid img
+{
+    height: 200px;
+    width: 200px;
+}
+body
+{
+    text-align: center;
+    background:linear-gradient(#e88982,#c9645d,#b3443d);
+}
+.carousel-inner img
+{
+    height: 300px;
+    width:300px;
+}
